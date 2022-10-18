@@ -1,100 +1,101 @@
-roller
-rim
-alternator
-electromagnet
-wheel
-control
-battery
-piston
-starter
-winding
-loudspeaker
-transmission
-runner
-wedge
-jumper
-airbag
-connector
-standby
-activation
-compass
-wheel
-fuel
-sensor
-regulation
-converter
-transponder
-door
-microphone
-button
-thermocouple
-heater element
-friction bearing
-brake fluid
-pump housing
-brake pad
-pressure sensor
-alternator stator
-fuel tank
-intake manifold
-engine cover
-spark plug
-camshaft control
-cigarette lighter
-steering wheel
-navigation system
-running gear
-reed switch
-power take-off
-leakage current
-rear lid
-particulate filter
-underbody trim
-final drive
-seat padding
-alternator rotor
-timing chain
-intake pipe
-shift gate
-docking station
-sbc hold
-surround sound system
-front fog light
-heated steering wheel
-liquid crystal display
-power steering pump
-interval display service
-power supply sensors
-piezo equivalent load
-bulkhead sound insulation
-radiator fan impeller
-implement special functions
-gas pressure regulation
-stabiliser connecting rod
-fuel return manifold
-belt tensioning roller
-electrical line bridge
-door unlocking solenoid
-piston protective collar
-adjuster power supply
-emergency call microphone
-seat heating switch led
-store vehicle reference level
-swirl flap shaft seal
-fresh air blower housing
-luggage compartment side trim
-swivel module position sensor
-engine valves rocker arm
-backrest side bolster heating
-folding roof arch bar
-engine valve cover gasket
-parking lock emergency release device
-vehicle electrical system voltage management
-engine valves roller-type rocker arm
-start of delivery actuator solenoid
-panorama roof blinds activation button
-alternator start charge current reduction
-door control unit plug connection
-charge air cooler coolant temperature
-steering column longitudinal adjustment motor
-rear window wiper interval control
+vehicle component name,
+roller,
+rim,
+alternator,
+electromagnet,
+wheel,
+control,
+battery,
+piston,
+starter,
+winding,
+loudspeaker,
+transmission,
+runner,
+wedge,
+jumper,
+airbag,
+connector,
+standby,
+activation,
+compass,
+wheel,
+fuel,
+sensor,
+regulation,
+converter,
+transponder,
+door,
+microphone,
+button,
+thermocouple,
+heater element,
+friction bearing,
+brake fluid,
+pump housing,
+brake pad,
+pressure sensor,
+alternator stator,
+fuel tank,
+intake manifold,
+engine cover,
+spark plug,
+camshaft control,
+cigarette lighter,
+steering wheel,
+navigation system,
+running gear,
+reed switch,
+power take-off,
+leakage current,
+rear lid,
+particulate filter,
+underbody trim,
+final drive,
+seat padding,
+alternator rotor,
+timing chain,
+intake pipe,
+shift gate,
+docking station,
+sbc hold,
+surround sound system,
+front fog light,
+heated steering wheel,
+liquid crystal display,
+power steering pump,
+interval display service,
+power supply sensors,
+piezo equivalent load,
+bulkhead sound insulation,
+radiator fan impeller,
+implement special functions,
+gas pressure regulation,
+stabiliser connecting rod,
+fuel return manifold,
+belt tensioning roller,
+electrical line bridge,
+door unlocking solenoid,
+piston protective collar,
+adjuster power supply,
+emergency call microphone,
+seat heating switch led,
+store vehicle reference level,
+swirl flap shaft seal,
+fresh air blower housing,
+luggage compartment side trim,
+swivel module position sensor,
+engine valves rocker arm,
+backrest side bolster heating,
+folding roof arch bar,
+engine valve cover gasket,
+parking lock emergency release device,
+vehicle electrical system voltage management,
+engine valves roller-type rocker arm,
+start of delivery actuator solenoid,
+panorama roof blinds activation button,
+alternator start charge current reduction,
+door control unit plug connection,
+charge air cooler coolant temperature,
+steering column longitudinal adjustment motor,
+rear window wiper interval control,
